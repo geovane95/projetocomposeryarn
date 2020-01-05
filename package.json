@@ -1,0 +1,29 @@
+{
+  "name": "PCY",
+  "version": "1.0.0",
+  "description": "Projeto Criado com Composer e Yarn",
+  "main": "index.js",
+  "repository": "https://github.com/geovane95/projetocomposeryarn.git",
+  "author": "Geovane Jr.",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bootstrap-datepicker": "^1.9.0",
+    "datatables.net-autofill-dt": "^2.3.4",
+    "datatables.net-buttons-dt": "^1.6.1",
+    "datatables.net-colreorder-dt": "^1.5.2",
+    "datatables.net-dt": "^1.10.20",
+    "datatables.net-fixedcolumns-dt": "^3.3.0",
+    "datatables.net-fixedheader-dt": "^3.1.6",
+    "datatables.net-keytable-dt": "^2.5.1",
+    "datatables.net-responsive-dt": "^2.2.3",
+    "datatables.net-rowgroup-dt": "^1.1.1",
+    "datatables.net-rowreorder-dt": "^1.2.6",
+    "datatables.net-scroller-dt": "^2.0.1",
+    "datatables.net-select-dt": "^1.3.1",
+    "jquery": "^3.4.1",
+    "jszip": "^3.2.2",
+    "pdfmake": "^0.1.63",
+    "sweetalert": "^2.1.2"
+  }
+}

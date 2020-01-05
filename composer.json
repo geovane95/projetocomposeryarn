@@ -1,0 +1,22 @@
+{
+    "name": "PCY",
+    "description": "PCY requirements",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "datatables.net/editor-php": "1.*",
+        "monolog/monolog": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PCY\\": "app/modules/PCY/src/",
+            "Services\\": "app/modules/Services/src/",
+            "File\\": "app/modules/File/src/"
+        }
+    },
+    "bin": [
+        "bin"
+    ],
+    "config": {
+        "vendor-dir": "vendor"
+    }
+}
